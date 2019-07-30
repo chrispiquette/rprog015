@@ -1,3 +1,4 @@
+##Thanks to vkatsikaros (rpog-assignment-2) - I did not author this code.
 ## makeCacheMatrix is a function that returns a list of functions
 ## to store a matrix and a cached value of the inverse of the 
 ## matrix. Contains the following functions:
